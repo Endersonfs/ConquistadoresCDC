@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAnWIT6bYTEEqMUQ+Hv20nfwAAAAACAAAAAAAQZgAAAAEAACAAAACUPHKhuBAp5NDt0pjaml4Cv8RYZqu9JJvJtUs8TaI9EgAAAAAOgAAAAAIAACAAAADfBIDiuHGBRb5694f1yg404CFE+Q4VH1wOntkMxNw/KYAAAAD6DNg1n/dfiLbGgEScI6G0FPRWDtHSuLZ+9wiYTZBpquhbuOFmihYPO3tsV7SUlxr7zDO+1kQPnf/rsoy/8j2K6JvXIP6lUiSM4bKDEc/ekwKWjCGW8oxvsTtE8CBv+jHrhyIoRzed204yG4dnzICLTXfG2jDI/CWr/gBltr9mNUAAAACjMJq8Ycae2sisvgg/vaHpY3HJA13uKU4UrpO4Yoj2w09tT/nYzlOYayDfZIDjVeHlMZoh9pPaey2h29PKq88Z</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:ccdc.database.windows.net,1433%3bInitial Catalog=cdc%3bPersist Security Info=False%3bUser ID=admindb%3bPassword=admin123ftH+%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

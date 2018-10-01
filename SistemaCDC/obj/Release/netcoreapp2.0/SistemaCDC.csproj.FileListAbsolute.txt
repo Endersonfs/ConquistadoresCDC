@@ -1,0 +1,12 @@
+C:\Users\Endersonfs\Documents\Club de conquistadores\Sistema\SistemaCDC\SistemaCDC\bin\Release\netcoreapp2.0\SistemaCDC.deps.json
+C:\Users\Endersonfs\Documents\Club de conquistadores\Sistema\SistemaCDC\SistemaCDC\bin\Release\netcoreapp2.0\SistemaCDC.runtimeconfig.json
+C:\Users\Endersonfs\Documents\Club de conquistadores\Sistema\SistemaCDC\SistemaCDC\bin\Release\netcoreapp2.0\SistemaCDC.runtimeconfig.dev.json
+C:\Users\Endersonfs\Documents\Club de conquistadores\Sistema\SistemaCDC\SistemaCDC\bin\Release\netcoreapp2.0\SistemaCDC.dll
+C:\Users\Endersonfs\Documents\Club de conquistadores\Sistema\SistemaCDC\SistemaCDC\bin\Release\netcoreapp2.0\SistemaCDC.pdb
+C:\Users\Endersonfs\Documents\Club de conquistadores\Sistema\SistemaCDC\SistemaCDC\obj\Release\netcoreapp2.0\SistemaCDC.csprojAssemblyReference.cache
+C:\Users\Endersonfs\Documents\Club de conquistadores\Sistema\SistemaCDC\SistemaCDC\obj\Release\netcoreapp2.0\SistemaCDC.csproj.CoreCompileInputs.cache
+C:\Users\Endersonfs\Documents\Club de conquistadores\Sistema\SistemaCDC\SistemaCDC\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Endersonfs\Documents\Club de conquistadores\Sistema\SistemaCDC\SistemaCDC\obj\Release\netcoreapp2.0\SistemaCDC.AssemblyInfoInputs.cache
+C:\Users\Endersonfs\Documents\Club de conquistadores\Sistema\SistemaCDC\SistemaCDC\obj\Release\netcoreapp2.0\SistemaCDC.AssemblyInfo.cs
+C:\Users\Endersonfs\Documents\Club de conquistadores\Sistema\SistemaCDC\SistemaCDC\obj\Release\netcoreapp2.0\SistemaCDC.dll
+C:\Users\Endersonfs\Documents\Club de conquistadores\Sistema\SistemaCDC\SistemaCDC\obj\Release\netcoreapp2.0\SistemaCDC.pdb
